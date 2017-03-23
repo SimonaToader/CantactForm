@@ -8,7 +8,7 @@ Contact-form.css -A contact form for a tourism website
 <hr>
 <p>Here's how the form looks like:
 </p>
-  <img src="images/demo.jpg">
+  <img src="images/Demo.jpg">
 <h3>How to use it
 </h3>
  <hr>
